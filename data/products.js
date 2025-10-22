@@ -14,7 +14,7 @@ const products = [
       "apparel"
     ]
   },
-
+  
   {
     id: "15b6fc6f-327a-4ec4-896f-486349e85a3d",
     image: "images/products/intermediate-composite-basketball.jpg",
@@ -29,7 +29,6 @@ const products = [
       "basketballs"
     ]
   },
-  
   {
     id: "83d4ca15-0f35-48f5-b7a3-1ea210004f2e",
     image: "images/products/adults-plain-cotton-tshirt-2-pack-teal.jpg",
@@ -658,5 +657,15 @@ const products = [
       "apparel",
       "mens"
     ]
+  },
+  {
+    id: "Id1",
+    image: "images/products/umbrella.jpg",
+    name: "Umbrella",
+    rating: {
+      stars: 5,
+      count: 2000
+    },
+    priceCents: 2000
   }
 ];
